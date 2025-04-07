@@ -1,1 +1,1 @@
-# Dynamic.jsx
+# dynamic
